@@ -1,0 +1,10 @@
+C:\Dev\Api.Automation\Api.Automation.Common\bin\Debug\Api.Automation.Common.dll
+C:\Dev\Api.Automation\Api.Automation.Common\bin\Debug\Api.Automation.Common.pdb
+C:\Dev\Api.Automation\Api.Automation.Common\obj\Debug\Api.Automation.Common.csprojResolveAssemblyReference.cache
+C:\Dev\Api.Automation\Api.Automation.Common\obj\Debug\Api.Automation.Common.dll
+C:\Dev\Api.Automation\Api.Automation.Common\obj\Debug\Api.Automation.Common.pdb
+C:\Dev\Api.Automation\src\Api.Automation.Common\bin\Debug\Api.Automation.Common.dll
+C:\Dev\Api.Automation\src\Api.Automation.Common\bin\Debug\Api.Automation.Common.pdb
+C:\Dev\Api.Automation\src\Api.Automation.Common\obj\Debug\Api.Automation.Common.csprojResolveAssemblyReference.cache
+C:\Dev\Api.Automation\src\Api.Automation.Common\obj\Debug\Api.Automation.Common.dll
+C:\Dev\Api.Automation\src\Api.Automation.Common\obj\Debug\Api.Automation.Common.pdb
